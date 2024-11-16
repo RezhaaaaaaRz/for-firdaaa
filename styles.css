@@ -1,0 +1,36 @@
+body {
+    font-family: 'Georgia', sans-serif;
+    background-color: #f0f8ff; /* Warna latar belakang awal */
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #ff66b2; /* Warna untuk judul */
+}
+
+button {
+    background-color: #ff66b2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #ff3399; /* Hover effect untuk tombol */
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 16px;
+    color: #666;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
